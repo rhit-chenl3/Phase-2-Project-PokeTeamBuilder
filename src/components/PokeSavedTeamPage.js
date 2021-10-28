@@ -14,12 +14,12 @@ function PokeSavedTeamPage() {
       },[])
     
     return (
-        <>
+        <Container>
             <h2>SAVED TEAMS</h2>
             <br/>
             {savedTeamList.map(savedTeams => <PokeSavedTeam savedTeams={savedTeams} key={savedTeams.id}/>)}
             <br/>
-        </>
+        </Container>
         
         
     );

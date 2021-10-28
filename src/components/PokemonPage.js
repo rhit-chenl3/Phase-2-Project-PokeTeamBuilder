@@ -81,7 +81,14 @@ function PokemonPage() {
 
   const handleSavedPokemon = (poke) => {
     setSavedPokemon(poke)
-    if(teamList.includes(poke)){
+    let repeat = false;
+    teamList.map(teamPoke => {
+      if(teamPoke.id === poke.id){
+        repeat = true;
+      }
+    })
+
+    if(repeat){
       alert("Teams may only contain unique pokemon!");
     } else if(teamList.length < 6){
       setTeamList([poke, ...teamList])

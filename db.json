@@ -1656,77 +1656,6 @@
       "id": 1,
       "pokeTeam": [
         {
-          "id": 18,
-          "name": "pidgeot",
-          "hp": 83,
-          "sprites": {
-            "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png",
-            "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/18.png"
-          },
-          "nature": "",
-          "item": ""
-        },
-        {
-          "id": 3,
-          "name": "venusaur",
-          "hp": 80,
-          "sprites": {
-            "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png",
-            "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/3.png"
-          },
-          "nature": "",
-          "item": ""
-        },
-        {
-          "id": 9,
-          "name": "blastoise",
-          "hp": 79,
-          "sprites": {
-            "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png",
-            "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/9.png"
-          },
-          "nature": "",
-          "item": ""
-        },
-        {
-          "id": 4,
-          "name": "charmander",
-          "hp": 39,
-          "sprites": {
-            "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png",
-            "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/4.png"
-          },
-          "nature": "",
-          "item": ""
-        },
-        {
-          "id": 5,
-          "name": "charmeleon",
-          "hp": 58,
-          "sprites": {
-            "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png",
-            "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/5.png"
-          },
-          "nature": "",
-          "item": ""
-        },
-        {
-          "id": 6,
-          "name": "charizard",
-          "hp": 78,
-          "sprites": {
-            "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png",
-            "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/6.png"
-          },
-          "nature": "",
-          "item": ""
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "pokeTeam": [
-        {
           "id": 6,
           "name": "charizard",
           "hp": 78,
@@ -1736,44 +1665,6 @@
           },
           "nature": "Bold",
           "item": "Leftovers"
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "pokeTeam": [
-        {
-          "id": 3,
-          "name": "venusaur",
-          "hp": 80,
-          "sprites": {
-            "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png",
-            "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/3.png"
-          },
-          "nature": "Adamant",
-          "item": "Focus Band"
-        },
-        {
-          "id": 7,
-          "name": "squirtle",
-          "hp": 44,
-          "sprites": {
-            "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png",
-            "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/7.png"
-          },
-          "nature": "Bold",
-          "item": "Leftovers"
-        },
-        {
-          "id": 9,
-          "name": "blastoise",
-          "hp": 79,
-          "sprites": {
-            "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png",
-            "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/9.png"
-          },
-          "nature": "",
-          "item": ""
         }
       ]
     }

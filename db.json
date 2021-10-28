@@ -1738,6 +1738,44 @@
           "item": "Leftovers"
         }
       ]
+    },
+    {
+      "id": 3,
+      "pokeTeam": [
+        {
+          "id": 3,
+          "name": "venusaur",
+          "hp": 80,
+          "sprites": {
+            "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png",
+            "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/3.png"
+          },
+          "nature": "Adamant",
+          "item": "Focus Band"
+        },
+        {
+          "id": 7,
+          "name": "squirtle",
+          "hp": 44,
+          "sprites": {
+            "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png",
+            "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/7.png"
+          },
+          "nature": "Bold",
+          "item": "Leftovers"
+        },
+        {
+          "id": 9,
+          "name": "blastoise",
+          "hp": 79,
+          "sprites": {
+            "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png",
+            "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/9.png"
+          },
+          "nature": "",
+          "item": ""
+        }
+      ]
     }
   ]
 }

@@ -10,10 +10,24 @@ function PokemonPage() {
   const [pokeList, setPokeList] = useState([]); // original list that isn't modified
   const [teamList, setTeamList] = useState([]);
   const [savedPokemon, setSavedPokemon] = useState([]);
-  // const [savedTeamList, setSavedTeamList] = useState([]);
   const [selectedPokemon, setSelectedPokemon] = useState(null);
   const [isLoaded, setIsLoaded] = useState(false);
   const [search, setSearch] = useState("");
+  const [formData, setFormData] = useState({
+    id: "",
+    name: "",
+    hp: "",
+    sprites: {
+        front: "",
+        back: ""
+    },
+    nature: "",
+    item: ""
+  })
+
+  const handleFormChange = (e) => {
+      setFormData(currentFormData => Object.assign({...currentFormData}, {[e.target.name]:e.target.value}))
+  }
 
   useEffect(() => {
     fetch("http://localhost:3001/pokemon")
@@ -53,6 +67,17 @@ function PokemonPage() {
 
   const handleSelectPokemon = (poke) => {
     setSelectedPokemon(poke)
+    setFormData({
+      id: poke.id,
+      name: poke.name,
+      hp: poke.hp,
+      sprites: {
+          front: poke.sprites.front,
+          back: poke.sprites.back
+      },
+      nature: "",
+      item: ""
+    })
   }
 
   const handleSavedPokemon = (poke) => {
@@ -77,7 +102,7 @@ function PokemonPage() {
     <Container>
       <h1>Pokemon Team Builder</h1>
       <br />
-      {selectedPokemon ? <PokemonDetail selectedPokemon={selectedPokemon} handleSavedPokemon={handleSavedPokemon} /> : null}
+      {selectedPokemon ? <PokemonDetail selectedPokemon={selectedPokemon} handleSavedPokemon={handleSavedPokemon} formData={formData} handleFormChange={handleFormChange} /> : null}
       {/* <PokemonForm addPoke={addPoke}/> */}
       <br />
       {savedPokemon ? <PokeTeam teamList={teamList} handleAddTeam={handleAddTeam} handleResetSaved={handleResetSaved}/> : null}

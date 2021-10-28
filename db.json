@@ -7,7 +7,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/1.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 2,
@@ -16,7 +18,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/2.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 3,
@@ -25,7 +29,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/3.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 4,
@@ -34,7 +40,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/4.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 5,
@@ -43,7 +51,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/5.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 6,
@@ -52,7 +62,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/6.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 7,
@@ -61,7 +73,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/7.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 8,
@@ -70,7 +84,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/8.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 9,
@@ -79,7 +95,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/9.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 10,
@@ -88,7 +106,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 11,
@@ -97,7 +117,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/11.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/11.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 12,
@@ -106,7 +128,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/12.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 13,
@@ -115,7 +139,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/13.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/13.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 14,
@@ -124,7 +150,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/14.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/14.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 15,
@@ -133,7 +161,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/15.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/15.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 16,
@@ -142,7 +172,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/16.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/16.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 17,
@@ -151,7 +183,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/17.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/17.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 18,
@@ -160,7 +194,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/18.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 19,
@@ -169,7 +205,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/19.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/19.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 20,
@@ -178,7 +216,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/20.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/20.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 21,
@@ -187,7 +227,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/21.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/21.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 22,
@@ -196,7 +238,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/22.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/22.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 23,
@@ -205,7 +249,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/23.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/23.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 24,
@@ -214,7 +260,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/24.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/24.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 25,
@@ -223,7 +271,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/25.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 26,
@@ -232,7 +282,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/26.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 27,
@@ -241,7 +293,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/27.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/27.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 28,
@@ -250,7 +304,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/28.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/28.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 29,
@@ -259,7 +315,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/29.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/29.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 30,
@@ -268,7 +326,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/30.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/30.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 31,
@@ -277,7 +337,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/31.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/31.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 32,
@@ -286,7 +348,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/32.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/32.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 33,
@@ -295,7 +359,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/33.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/33.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 34,
@@ -304,7 +370,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/34.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/34.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 35,
@@ -313,7 +381,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/35.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/35.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 36,
@@ -322,7 +392,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/36.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/36.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 37,
@@ -331,7 +403,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/37.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/37.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 38,
@@ -340,7 +414,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/38.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/38.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 39,
@@ -349,7 +425,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/39.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/39.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 40,
@@ -358,7 +436,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/40.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/40.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 41,
@@ -367,7 +447,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/41.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/41.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 42,
@@ -376,7 +458,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/42.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/42.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 43,
@@ -385,7 +469,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/43.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/43.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 44,
@@ -394,7 +480,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/44.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/44.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 45,
@@ -403,7 +491,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/45.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/45.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 46,
@@ -412,7 +502,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/46.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/46.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 47,
@@ -421,7 +513,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/47.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/47.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 48,
@@ -430,7 +524,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/48.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/48.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 49,
@@ -439,7 +535,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/49.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/49.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 50,
@@ -448,7 +546,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/50.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/50.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 51,
@@ -457,7 +557,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/51.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/51.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 52,
@@ -466,7 +568,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/52.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/52.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 53,
@@ -475,7 +579,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/53.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/53.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 54,
@@ -484,7 +590,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/54.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 55,
@@ -493,7 +601,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/55.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/55.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 56,
@@ -502,7 +612,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/56.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/56.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 57,
@@ -511,7 +623,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/57.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/57.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 58,
@@ -520,7 +634,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/58.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/58.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 59,
@@ -529,7 +645,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/59.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/59.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 60,
@@ -538,7 +656,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/60.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/60.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 61,
@@ -547,7 +667,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/61.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/61.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 62,
@@ -556,7 +678,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/62.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/62.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 63,
@@ -565,7 +689,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/63.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/63.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 64,
@@ -574,7 +700,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/64.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/64.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 65,
@@ -583,7 +711,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/65.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/65.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 66,
@@ -592,7 +722,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/66.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/66.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 67,
@@ -601,7 +733,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/67.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/67.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 68,
@@ -610,7 +744,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/68.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/68.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 69,
@@ -619,7 +755,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/69.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/69.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 70,
@@ -628,7 +766,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/70.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/70.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 71,
@@ -637,7 +777,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/71.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/71.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 72,
@@ -646,7 +788,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/72.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/72.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 73,
@@ -655,7 +799,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/73.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/73.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 74,
@@ -664,7 +810,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/74.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/74.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 75,
@@ -673,7 +821,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/75.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/75.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 76,
@@ -682,7 +832,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/76.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/76.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 77,
@@ -691,7 +843,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/77.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/77.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 78,
@@ -700,7 +854,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/78.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/78.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 79,
@@ -709,7 +865,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/79.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/79.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 80,
@@ -718,7 +876,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/80.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/80.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 81,
@@ -727,7 +887,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/81.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/81.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 82,
@@ -736,7 +898,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/82.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/82.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 83,
@@ -745,7 +909,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/83.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/83.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 84,
@@ -754,7 +920,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/84.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/84.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 85,
@@ -763,7 +931,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/85.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/85.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 86,
@@ -772,7 +942,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/86.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/86.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 87,
@@ -781,7 +953,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/87.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/87.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 88,
@@ -790,7 +964,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/88.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/88.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 89,
@@ -799,7 +975,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/89.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/89.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 90,
@@ -808,7 +986,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/90.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/90.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 91,
@@ -817,7 +997,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/91.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/91.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 92,
@@ -826,7 +1008,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/92.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/92.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 93,
@@ -835,7 +1019,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/93.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/93.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 94,
@@ -844,7 +1030,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/94.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 95,
@@ -853,7 +1041,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/95.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/95.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 96,
@@ -862,7 +1052,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/96.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/96.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 97,
@@ -871,7 +1063,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/97.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/97.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 98,
@@ -880,7 +1074,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/98.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/98.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 99,
@@ -889,7 +1085,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/99.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/99.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 100,
@@ -898,7 +1096,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/100.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/100.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 101,
@@ -907,7 +1107,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/101.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/101.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 102,
@@ -916,7 +1118,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/102.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/102.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 103,
@@ -925,7 +1129,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/103.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/103.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 104,
@@ -934,7 +1140,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/104.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/104.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 105,
@@ -943,7 +1151,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/105.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/105.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 106,
@@ -952,7 +1162,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/106.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/106.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 107,
@@ -961,7 +1173,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/107.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/107.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 108,
@@ -970,7 +1184,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/108.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/108.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 109,
@@ -979,7 +1195,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/109.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/109.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 110,
@@ -988,7 +1206,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/110.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/110.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 111,
@@ -997,7 +1217,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/111.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/111.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 112,
@@ -1006,7 +1228,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/112.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/112.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 113,
@@ -1015,7 +1239,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/113.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/113.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 114,
@@ -1024,7 +1250,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/114.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/114.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 115,
@@ -1033,7 +1261,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/115.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/115.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 116,
@@ -1042,7 +1272,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/116.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/116.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 117,
@@ -1051,7 +1283,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/117.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/117.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 118,
@@ -1060,7 +1294,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/118.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/118.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 119,
@@ -1069,7 +1305,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/119.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/119.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 120,
@@ -1078,7 +1316,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/120.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/120.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 121,
@@ -1087,7 +1327,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/121.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/121.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 122,
@@ -1096,7 +1338,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/122.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/122.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 123,
@@ -1105,7 +1349,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/123.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/123.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 124,
@@ -1114,7 +1360,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/124.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/124.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 125,
@@ -1123,7 +1371,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/125.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/125.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 126,
@@ -1132,7 +1382,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/126.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/126.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 127,
@@ -1141,7 +1393,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/127.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/127.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 128,
@@ -1150,7 +1404,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/128.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/128.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 129,
@@ -1159,7 +1415,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/129.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/129.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 130,
@@ -1168,7 +1426,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/130.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 131,
@@ -1177,7 +1437,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/131.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/131.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 132,
@@ -1186,7 +1448,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/132.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/132.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 133,
@@ -1195,7 +1459,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/133.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/133.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 134,
@@ -1204,7 +1470,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/134.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/134.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 135,
@@ -1213,7 +1481,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/135.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/135.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 136,
@@ -1222,7 +1492,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/136.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/136.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 137,
@@ -1231,7 +1503,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/137.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/137.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 138,
@@ -1240,7 +1514,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/138.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/138.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 139,
@@ -1249,7 +1525,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/139.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/139.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 140,
@@ -1258,7 +1536,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/140.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/140.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 141,
@@ -1267,7 +1547,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/141.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/141.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 142,
@@ -1276,7 +1558,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/142.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/142.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 143,
@@ -1285,7 +1569,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/143.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/143.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 144,
@@ -1294,7 +1580,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/144.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/144.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 145,
@@ -1303,7 +1591,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/145.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/145.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 146,
@@ -1312,7 +1602,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/146.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/146.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 147,
@@ -1321,7 +1613,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/147.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/147.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 148,
@@ -1330,7 +1624,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/148.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/148.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 149,
@@ -1339,7 +1635,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/149.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     },
     {
       "id": 150,
@@ -1348,7 +1646,9 @@
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/150.png"
-      }
+      },
+      "nature": "",
+      "item": ""
     }
   ],
   "teams": [
@@ -1362,7 +1662,9 @@
           "sprites": {
             "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png",
             "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/18.png"
-          }
+          },
+          "nature": "",
+          "item": ""
         },
         {
           "id": 3,
@@ -1371,7 +1673,9 @@
           "sprites": {
             "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png",
             "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/3.png"
-          }
+          },
+          "nature": "",
+          "item": ""
         },
         {
           "id": 9,
@@ -1380,7 +1684,9 @@
           "sprites": {
             "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png",
             "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/9.png"
-          }
+          },
+          "nature": "",
+          "item": ""
         },
         {
           "id": 4,
@@ -1389,7 +1695,9 @@
           "sprites": {
             "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png",
             "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/4.png"
-          }
+          },
+          "nature": "",
+          "item": ""
         },
         {
           "id": 5,
@@ -1398,7 +1706,9 @@
           "sprites": {
             "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png",
             "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/5.png"
-          }
+          },
+          "nature": "",
+          "item": ""
         },
         {
           "id": 6,
@@ -1407,7 +1717,25 @@
           "sprites": {
             "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png",
             "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/6.png"
-          }
+          },
+          "nature": "",
+          "item": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "pokeTeam": [
+        {
+          "id": 6,
+          "name": "charizard",
+          "hp": 78,
+          "sprites": {
+            "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png",
+            "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/6.png"
+          },
+          "nature": "Bold",
+          "item": "Leftovers"
         }
       ]
     }

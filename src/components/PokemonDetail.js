@@ -1,4 +1,3 @@
-// import { Card } from "semantic-ui-react";
 import React, {useState} from 'react';
 import { Form } from "semantic-ui-react";
 
@@ -8,36 +7,6 @@ function PokemonDetail({selectedPokemon, handleSavedPokemon, formData, handleFor
     const handleToggleSprite = () =>{
       setToggleSprite(!toggleSprite)
     }
-    
-    // const [formData, setFormData] = useState({
-    //     id: selectedPokemon.id,
-    //     name: selectedPokemon.name,
-    //     hp: selectedPokemon.hp,
-    //     sprites: {
-    //         front: selectedPokemon.sprites.front,
-    //         back: selectedPokemon.sprites.back
-    //     },
-    //     nature: "",
-    //     item: ""
-    // })
-
-    // const handleFormChange = (e) => {
-    //     setFormData(currentFormData => Object.assign({...currentFormData}, {[e.target.name]:e.target.value}))
-    // }
-
-    // const handleNewSelect = () => {
-    //     setFormData({
-    //         id: selectedPokemon.id,
-    //         name: selectedPokemon.name,
-    //         hp: selectedPokemon.hp,
-    //         sprites: {
-    //             front: selectedPokemon.sprites.front,
-    //             back: selectedPokemon.sprites.back
-    //         },
-    //         nature: "",
-    //         item: ""
-    //     })
-    // }
 
     return(
         <>
@@ -52,7 +21,8 @@ function PokemonDetail({selectedPokemon, handleSavedPokemon, formData, handleFor
                 </Form.Group>
             </Form>
             <Form.Button onClick={() => {
-                handleSavedPokemon(formData)}}>Add to Team</Form.Button>
+                handleSavedPokemon(formData)
+                }}>Add to Team</Form.Button>
             <br/>
             <br/>
         </>

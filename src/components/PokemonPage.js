@@ -56,7 +56,6 @@ function PokemonPage() {
     .then(res => res.json())
     .then(data => {
       console.log(data);
-      // setSavedTeamList([data, ...savedTeamList])
     })
   }
 

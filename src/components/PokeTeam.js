@@ -13,7 +13,10 @@ function PokeTeam({teamList, handleAddTeam, handleResetSaved}) {
                 {teamList.map(poke => <PokeTeamCard pokeCard={poke} key={poke.id}/>)}
             </Card.Group>  
             <br/>
-            <button onClick={handleAddTeam}>Save Team</button>
+            <button onClick={ (e) => {
+                handleAddTeam(e)
+                alert("Successfully saved your team!")
+                }}>Save Team</button>
             <button onClick={handleResetSaved}>Reset</button>
             <br/>
         </>

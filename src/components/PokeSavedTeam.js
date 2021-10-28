@@ -2,7 +2,7 @@ import React from "react";
 import PokeTeamCard from "./PokeTeamCard"
 import { Card } from "semantic-ui-react";
 
-function PokeTeam({savedTeams}) {
+function PokeTeam({savedTeams, handleDelete}) {
     return (
         <>  
             <h3>TEAM {savedTeams.id}</h3>
@@ -11,7 +11,7 @@ function PokeTeam({savedTeams}) {
                 {savedTeams.pokeTeam.map(poke => <PokeTeamCard pokeCard={poke} key={poke.id}/>)}
             </Card.Group>  
             <br/>
-            <button>Delete Team</button>
+            <button onClick={() => handleDelete(savedTeams)}>Delete Team</button>
             <br/>
         </>
         

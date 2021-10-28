@@ -4,9 +4,6 @@ import Search from "./Search";
 import { Container } from "semantic-ui-react";
 import PokemonDetail from "./PokemonDetail";
 import PokeTeam from "./PokeTeam"
-import PokeSavedTeam from "./PokeSavedTeamPage";
-import NavBar from "./NavBar";
-import {Route, Switch} from "react-router-dom";
 
 function PokemonPage() {
   const [pokeFilterList, setPokeFilterList] = useState([]); 

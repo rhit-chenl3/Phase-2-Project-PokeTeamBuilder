@@ -13,11 +13,21 @@ function PokeSavedTeamPage() {
         })
       },[])
     
+    const handleDelete = (deletedTeam) => {
+    fetch(`http://localhost:3001/teams/${deletedTeam.id}`,{
+        method:'DELETE'
+    })
+    .then(() => {
+        const newSavedTeamList = savedTeamList.filter(teams => teams.id !== deletedTeam.id)
+        setSavedTeamList(newSavedTeamList)
+        })
+    }
+    
     return (
         <Container>
             <h2>SAVED TEAMS</h2>
             <br/>
-            {savedTeamList.map(savedTeams => <PokeSavedTeam savedTeams={savedTeams} key={savedTeams.id}/>)}
+            {savedTeamList.map(savedTeams => <PokeSavedTeam savedTeams={savedTeams} key={savedTeams.id} handleDelete={handleDelete}/>)}
             <br/>
         </Container>
         

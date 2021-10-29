@@ -3,7 +3,7 @@ import PokeTeamCard from "./PokeTeamCard"
 import { Card } from "semantic-ui-react";
 
 function PokeTeam({teamList, handleAddTeam, handleResetSaved}) {
-    console.log(teamList)
+    // console.log(teamList)
     return (
         <>  
             <h2>TEAM</h2>

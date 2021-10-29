@@ -1667,6 +1667,77 @@
           "item": "Leftovers"
         }
       ]
+    },
+    {
+      "id": 2,
+      "pokeTeam": [
+        {
+          "id": 116,
+          "name": "horsea",
+          "hp": 30,
+          "sprites": {
+            "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/116.png",
+            "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/116.png"
+          },
+          "nature": "Bold",
+          "item": "Leftovers"
+        },
+        {
+          "id": 132,
+          "name": "ditto",
+          "hp": 48,
+          "sprites": {
+            "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/132.png",
+            "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/132.png"
+          },
+          "nature": "Bold",
+          "item": "Leftovers"
+        },
+        {
+          "id": 104,
+          "name": "cubone",
+          "hp": 50,
+          "sprites": {
+            "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/104.png",
+            "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/104.png"
+          },
+          "nature": "Bold",
+          "item": "Leftovers"
+        },
+        {
+          "id": 7,
+          "name": "squirtle",
+          "hp": 44,
+          "sprites": {
+            "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png",
+            "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/7.png"
+          },
+          "nature": "Bold",
+          "item": "Leftovers"
+        },
+        {
+          "id": 39,
+          "name": "jigglypuff",
+          "hp": 115,
+          "sprites": {
+            "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/39.png",
+            "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/39.png"
+          },
+          "nature": "Bold",
+          "item": "Leftovers"
+        },
+        {
+          "id": 13,
+          "name": "weedle",
+          "hp": 40,
+          "sprites": {
+            "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/13.png",
+            "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/13.png"
+          },
+          "nature": "Bold",
+          "item": "Leftovers"
+        }
+      ]
     }
   ]
 }

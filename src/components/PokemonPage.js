@@ -82,7 +82,7 @@ function PokemonPage() {
   const handleSavedPokemon = (poke) => {
     setSavedPokemon(poke)
     let repeat = false;
-    teamList.map(teamPoke => {
+    teamList.forEach(teamPoke => {
       if(teamPoke.id === poke.id){
         repeat = true;
       }

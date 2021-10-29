@@ -9,7 +9,6 @@ function PokeTeam({teamList, handleAddTeam, handleResetSaved}) {
             <h2>TEAM</h2>
             <br/>
             <Card.Group itemsPerRow={6}>
-                {/* <h1>Build Your Team!</h1> */}
                 {teamList.map(poke => <PokeTeamCard pokeCard={poke} key={poke.id}/>)}
             </Card.Group>  
             <br/>
